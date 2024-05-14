@@ -11,7 +11,7 @@
     "url": "git+https://github.com/apiverve/contactextractor-API.git"
   },
   "keywords": [
-    "contact extractor"," contact data"," contact extractor api"," contact data api"," contact extractor tool"," contact data tool"," contact extractor software"," contact data software"," contact extractor service"," contact data service"," contact extractor library"," contact data library"," contact extractor sdk"," contact data sdk"," contact extractor code"," contact data code"," contact extractor script"," contact data script"," contact extractor program"," contact data program"," contact extractor application"," contact data application"," contact extractor app"," contact data app"," contact extractor utility"," contact data utility"," contact extractor helper"," contact data helper"," contact extractor helper tool"," contact data helper tool"," contact extractor helper software"," contact data helper software"," contact extractor helper service"," contact data helper service"," contact extractor helper library"," contact data helper library"," contact extractor helper sdk"," contact data helper sdk"," contact extractor helper code"," contact data helper code"," contact extractor helper script"," contact data helper script"," contact extractor helper program"," contact data helper program"," contact extractor helper application"," contact data helper application"," contact extractor helper app"," contact data helper app"," contact extractor helper tool"," contact data helper tool"," contact extractor helper utility"," contact data helper utility"," contact extractor helper"
+    "contact extractor","contact data","contact extractor api","contact data api","contact extractor tool"
   ],
   "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
   "license": "MIT",
@@ -27,6 +27,6 @@
   "dependencies": {
     "node-fetch": "3.3.2",
     "promise": "^7.1.1",
-    "request": "^2.69.0"
+    "axios": "^0.15.3"
   }
 }
