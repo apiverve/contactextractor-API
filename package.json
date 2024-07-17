@@ -1,7 +1,7 @@
 {
   "name": "@apiverve/contactextractor",
-  "version": "1.0.2",
-  "description": "Contact Extractor is a simple tool for extracting contact data. It returns the contact name, email, and more.",
+  "version": "1.0.3",
+  "description": "is a simple tool for extracting contact data from a website URL. It returns the contact emails, phone numbers, and places.",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
