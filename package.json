@@ -1,7 +1,7 @@
 {
   "name": "@apiverve/contactextractor",
-  "version": "1.0.3",
-  "description": "is a simple tool for extracting contact data from a website URL. It returns the contact emails, phone numbers, and places.",
+  "version": "1.1.4",
+  "description": "Contact Extractor is a simple tool for extracting contact data from a website URL. It returns the contact emails, phone numbers, and places.",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
@@ -18,15 +18,15 @@
   "bugs": {
     "url": "https://github.com/apiverve/contactextractor-API/issues"
   },
-  "homepage": "https://github.com/apiverve/contactextractor-API",
+  "homepage": "https://apiverve.com/marketplace/api/contactextractor",
   "devDependencies": {
-    "mocha": "^10.4.0",
+    "mocha": "^10.7.3",
     "chai": "^5.1.1",
     "dotenv": "^16.4.5"
   },
   "dependencies": {
-    "node-fetch": "3.3.2",
+    "node-fetch": "^3.3.2",
     "promise": "^8.3.0",
-    "axios": "1.6.8"
+    "axios": "1.7.4"
   }
 }
