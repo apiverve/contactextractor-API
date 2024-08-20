@@ -1,7 +1,7 @@
 Contact Extractor API
 ============
 
-is a simple tool for extracting contact data from a website URL. It returns the contact emails, phone numbers, and places.
+Contact Extractor is a simple tool for extracting contact data from a website URL. It returns the contact emails, phone numbers, and places.
 
 ![Build Status](https://img.shields.io/badge/build-passing-green)
 ![Code Climate](https://img.shields.io/badge/maintainability-B-purple)
@@ -100,12 +100,14 @@ api.execute(query, function (error, data) {
       "l@example.com",
       "right@example.com",
       "allowed@example.com",
+      "onore@example.com",
       "tag@domain.com",
       "extension@pobox.com"
     ],
     "phones": [],
     "places": {}
-  }
+  },
+  "code": 200
 }
 ```
 
