@@ -72,7 +72,6 @@ api.execute(query, function (error, data) {
   "error": null,
   "data": {
     "url": "https://en.wikipedia.org/wiki/Email_address",
-    "contactsFound": null,
     "emails": [
       "john.smith@example.com",
       "jsmith@example.com",
